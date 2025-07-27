@@ -1,0 +1,58 @@
+# 📊 Sentiment-Driven Trader Behavior Analysis
+
+This repository contains my submission for the **Web3 Trading Team Data Science Assignment**.  
+The goal of this project was to analyze trader behavior in relation to market sentiment using historical trading data and the Bitcoin Fear & Greed Index.
+
+---
+
+## 📁 Folder Structure
+
+ds_aayushigupta/
+├── notebook_1.ipynb # Main analysis notebook (Python, Google Colab)
+├── csv_files/
+│ ├── trader_data.csv # Historical trade data
+│ └── fear_greed_index.csv # Market sentiment data
+├── outputs/
+│ ├── profit_by_sentiment.png
+│ ├── leverage_by_sentiment.png
+│ ├── volume_by_sentiment.png
+│ ├── side_distribution_by_sentiment.png
+├── ds_report.pdf # Final report with insights & visualizations
+
+---
+
+## 📌 Project Summary
+
+This project explores how market sentiment (Fear, Greed, etc.) influences:
+
+- 📈 **Trader profitability**
+- ⚖️ **Leverage and risk behavior**
+- 🔁 **Buy/Sell decisions**
+- 💰 **Trade volume**
+
+Data was cleaned, merged, and analyzed using `pandas`, `matplotlib`, and `seaborn`.
+
+---
+
+## 📊 Visualizations
+
+All key findings are supported with visualizations stored in the `outputs/` folder:
+- Profitability by Sentiment
+- Leverage by Sentiment
+- Trade Volume by Sentiment
+- Buy/Sell Side Distribution
+
+---
+
+## 📎 Colab Notebook Link
+
+> [🔗 View notebook on Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK_HERE)  
+*(Replace with actual shared Colab link)*
+
+---
+
+## 👩‍💻 Author
+
+**Aayushi Gupta**  
+July 2025  
+
